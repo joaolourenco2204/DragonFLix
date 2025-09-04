@@ -34,7 +34,17 @@ function DescriptionUses() {
     
     }
 
-    const commentsUses = [guilerme, givanildo, dudu]
+    const Joao = {
+        photo: panda,
+        name: "@Joaox",
+        date: "17/01/2015",
+        nota: "5.8/10",
+        comment: "A Serie Warrior E Bem Mais Interessante",
+        photoDescription:"mestre"
+    
+    }
+
+    const commentsUses = [guilerme, givanildo, dudu, Joao]
 
     return(
 
